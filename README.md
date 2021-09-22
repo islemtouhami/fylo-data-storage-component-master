@@ -20,7 +20,7 @@ his is a solution to the [Clipboard landing page challenge on Frontend Mentor](h
 ### Links
 
 - Solution URL: [Asolution URL](https://github.com/islemtouhami/fylo-data-storage-component-master)
-- Live Site URL: [ live site URL](https://your-live-site-url.com)
+- Live Site URL: [ live site URL](https://distracted-haibt-80ed9f.netlify.app/)
 
 ### Built with
 

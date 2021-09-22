@@ -13,7 +13,7 @@ his is a solution to the [Clipboard landing page challenge on Frontend Mentor](h
 ## Overview
 
 ### Screenshot
-![](./design/Screenshot.jpg)
+![](./design/Screenshot.png)
 ![](./design/Screenshot.jpeg)
 
 
